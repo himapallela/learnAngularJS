@@ -1,2 +1,3 @@
 # learnAngularJS
-AngularJS learning
+******************************************
+This Project is about learning angularJS.
